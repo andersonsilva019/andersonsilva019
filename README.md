@@ -4,4 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-andersonnsilva015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonnsilva015@gmail.com)](mailto:andersonnsilva015@gmail.com)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsilva019&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsilva019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsilva019&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
