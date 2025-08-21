@@ -27,17 +27,17 @@
 
 ---
 
-### ☁️ DevOps
+### DevOps
 - AWS, Google Cloud Platform, Docker, Docker Compose, GitHub Actions, CI/CD  
 
 ---
 
-### 🧪 Testing
+### Testing
 - Jest, React Testing Library, Vitest, Cypress  
 
 ---
 
-### 🎯 Interests
+### Interests
 - Building scalable systems  
 - Microservices  
 - Microfrontend  
