@@ -9,15 +9,15 @@
 
 
 ### Soft Skills
-- Comunicação, Disciplina, Trabalho em equipe, Relacionamento interpessoal, Empatia, Organização, Proatividade, Qualidade na entrega  
-  
+- Communication, Discipline, Teamwork, Interpersonal skills, Empathy, Organization, Proactivity
+
 ---
 
 ### Front-End
 - **Frameworks & Libs:** React.js, Next.js, Redux, Zustand, React Query, Context API  
 - **Form & Validation:** Zod, Yup, React Hook Form  
-- **Estilização:** Styled-components, TailwindCSS, SASS, CSS Modules, Ant Design, Bootstrap, Radix, Shadcn  
-- **Outros:** SEO, Webpack, Vite, WCAG (acessibilidade), Storybook, GraphQL  
+- **Styling:** Styled-components, TailwindCSS, SASS, CSS Modules, Ant Design, Bootstrap, Radix, Shadcn  
+- **Others:** SEO, Webpack, Vite, WCAG (Accessibility), Storybook, GraphQL  
 
 ---
 
@@ -32,17 +32,17 @@
 ---
 
 ### ☁️ DevOps
-- AWS, Google Cloud Platform, Docker, Docker compose, GitHub Actions, CI/CD  
+- AWS, Google Cloud Platform, Docker, Docker Compose, GitHub Actions, CI/CD  
 
 ---
 
-### 🧪 Testes
-- Jest, React Testing Library, Vitest, Cypress
+### 🧪 Testing
+- Jest, React Testing Library, Vitest, Cypress  
 
 ---
 
-### 🎯 Interesses
-- Construção de sistemas escaláveis  
-- Microsserviços  
+### 🎯 Interests
+- Building scalable systems  
+- Microservices  
 - Microfrontend  
-- Arquitetura de software  
+- Software architecture  
